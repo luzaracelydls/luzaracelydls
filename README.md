@@ -2,4 +2,4 @@
 - 👀 I’m interested in ...Acceessibility
 - 🌱 I’m currently learning ...Accessibility
 - 💞️ I’m looking to collaborate on ... building components library, hybrid applications
-- 📫 How to reach me ...luzaracelydls@gmail.com ✨
+- 📫 How to reach me ...aracely.des@uanl.edu.mx
