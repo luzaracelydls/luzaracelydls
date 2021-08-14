@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luzaracelydls
-- 👀 I’m interested in ...Acceessibility
+- 👀 I’m interested in ...hybrid applications, design systems, accessibility
 - 🌱 I’m currently learning ...Accessibility
 - 💞️ I’m looking to collaborate on ... building components library, hybrid applications
 - 📫 How to reach me ...aracely.des@uanl.edu.mx
