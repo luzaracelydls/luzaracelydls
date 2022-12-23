@@ -16,5 +16,5 @@ Angular, Ionic, JS, Cloud and MS Power Platform (business automation fan here), 
 - 📫 How to reach me ... luz@womenwhocode.com 
 - [Twitter](https://twitter.com/luzaracelydls)
 - [LinkedIn](https://www.linkedin.com/in/luzaracelydls/)
-
+- [Notist](https://noti.st/luzaracelydls)
 
